@@ -1,0 +1,15 @@
+C:\Users\e.belyankina\Desktop\Lecrure_1\Lecture_1.6\obj\Debug\net7.0\Lecture_1.6.csproj.AssemblyReference.cache
+C:\Users\e.belyankina\Desktop\Lecrure_1\Lecture_1.6\obj\Debug\net7.0\Lecture_1.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.belyankina\Desktop\Lecrure_1\Lecture_1.6\obj\Debug\net7.0\Lecture_1.6.AssemblyInfoInputs.cache
+C:\Users\e.belyankina\Desktop\Lecrure_1\Lecture_1.6\obj\Debug\net7.0\Lecture_1.6.AssemblyInfo.cs
+C:\Users\e.belyankina\Desktop\Lecrure_1\Lecture_1.6\obj\Debug\net7.0\Lecture_1.6.csproj.CoreCompileInputs.cache
+C:\Users\e.belyankina\Desktop\Lecrure_1\Lecture_1.6\bin\Debug\net7.0\Lecture_1.6.exe
+C:\Users\e.belyankina\Desktop\Lecrure_1\Lecture_1.6\bin\Debug\net7.0\Lecture_1.6.deps.json
+C:\Users\e.belyankina\Desktop\Lecrure_1\Lecture_1.6\bin\Debug\net7.0\Lecture_1.6.runtimeconfig.json
+C:\Users\e.belyankina\Desktop\Lecrure_1\Lecture_1.6\bin\Debug\net7.0\Lecture_1.6.dll
+C:\Users\e.belyankina\Desktop\Lecrure_1\Lecture_1.6\bin\Debug\net7.0\Lecture_1.6.pdb
+C:\Users\e.belyankina\Desktop\Lecrure_1\Lecture_1.6\obj\Debug\net7.0\Lecture_1.6.dll
+C:\Users\e.belyankina\Desktop\Lecrure_1\Lecture_1.6\obj\Debug\net7.0\refint\Lecture_1.6.dll
+C:\Users\e.belyankina\Desktop\Lecrure_1\Lecture_1.6\obj\Debug\net7.0\Lecture_1.6.pdb
+C:\Users\e.belyankina\Desktop\Lecrure_1\Lecture_1.6\obj\Debug\net7.0\Lecture_1.6.genruntimeconfig.cache
+C:\Users\e.belyankina\Desktop\Lecrure_1\Lecture_1.6\obj\Debug\net7.0\ref\Lecture_1.6.dll
